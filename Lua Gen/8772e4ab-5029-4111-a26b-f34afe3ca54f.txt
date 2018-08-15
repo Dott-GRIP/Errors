@@ -1,2 +1,2 @@
 The error uuid: 8772e4ab-5029-4111-a26b-f34afe3ca54f,
-is given when the neccesary case sensitivity is not found.
+is given when the necessary case sensitivity is not found.
