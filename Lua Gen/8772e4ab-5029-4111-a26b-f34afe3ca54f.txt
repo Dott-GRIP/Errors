@@ -1,3 +1,0 @@
-The error uuid: 8772e4ab-5029-4111-a26b-f34afe3ca54f,
-is an error involving case sensitive input.
-given when a lowercase letter should be capitalized or an uppercase letter should be lowercase.
